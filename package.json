@@ -1,0 +1,15 @@
+{
+  "name": "rtmpserver",
+  "version": "1.0.0",
+  "description": "rtmpserver for cube project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "walid rahim",
+  "license": "ISC",
+  "dependencies": {
+    "node-media-server": "^2.3.8",
+    "nodemon": "^2.0.15"
+  }
+}
